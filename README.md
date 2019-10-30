@@ -3,7 +3,7 @@
 [下载地址](https://github.com/CodeNeverStops/HotNewsApp/releases/download/v0.1.0/app-release.apk)
 
 # APP截图
-![首页](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/1.jpeg){:height="50%" width="50%"}
-![详情页](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/4.jpeg){:height="50%" width="50%"}
-![频道订阅](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/2.jpeg){:height="50%" width="50%"}
-![换肤](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/3.jpeg){:height="50%" width="50%"}
+![首页](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/1.jpg)
+![详情页](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/4.jpg)
+![频道订阅](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/2.jpg)
+![换肤](https://github.com/CodeNeverStops/HotNewsApp/blob/master/screenshots/3.jpg)
